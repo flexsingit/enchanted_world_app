@@ -1,0 +1,22 @@
+default: &default
+  adapter: postgresql
+  host: localhost
+  encoding: unicode
+  pool: 30
+  username: postgres
+  password: postgres
+
+development:
+  <<: *default
+  database: enchanted_world_app
+
+test:
+  <<: *default
+  database: enchanted_world_app
+
+production:
+  <<: *default
+  database: enchanted_world_app
+  username: 
+  password: 
+

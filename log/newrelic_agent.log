@@ -1,0 +1,319 @@
+# Logfile created on 2018-06-06 17:03:24 +0530 by logger.rb/56438
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Environment: development
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Dispatcher: webrick
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Application: development
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing ActiveJob instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing Net instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing Rails 4 view instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Finished instrumentation
+[2018-06-06 17:03:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-06 17:03:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-06 17:03:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-06 17:03:34 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11683)] INFO : Starting Agent shutdown
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Environment: development
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Dispatcher: webrick
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Application: development
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing ActiveJob instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing Net instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing Rails 4 view instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Finished instrumentation
+[2018-06-06 17:07:14 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-06 17:07:21 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-06 17:07:21 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-06 17:07:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (11994)] INFO : Starting Agent shutdown
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Environment: development
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Dispatcher: webrick
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Application: development
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing ActiveJob instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing Net instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing Rails 4 view instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Finished instrumentation
+[2018-06-06 17:15:31 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-06 17:15:38 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-06 17:15:38 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-06 17:17:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13169)] INFO : Starting Agent shutdown
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Environment: development
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Dispatcher: webrick
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Application: development
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing ActiveJob instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing Net instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing Rails 4 view instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Finished instrumentation
+[2018-06-06 17:17:17 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-06 17:17:29 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-06 17:17:29 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Environment: development
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : No known dispatcher detected.
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Application: development
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing ActiveJob instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing Net instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing Rails 4 view instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-06 17:22:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13877)] INFO : Finished instrumentation
+[2018-06-06 19:16:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (13318)] INFO : Starting Agent shutdown
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Environment: development
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Dispatcher: webrick
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Application: development
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing Net instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 10:49:15 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Finished instrumentation
+[2018-06-07 10:49:16 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 10:49:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 10:49:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 11:16:53 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (5191)] INFO : Starting Agent shutdown
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Environment: development
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Dispatcher: webrick
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Application: development
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing Net instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Finished instrumentation
+[2018-06-07 11:22:24 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 11:22:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 11:22:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Environment: development
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : No known dispatcher detected.
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Application: development
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing Net instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 11:23:50 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6516)] INFO : Finished instrumentation
+[2018-06-07 11:24:09 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6382)] INFO : Starting Agent shutdown
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Environment: development
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Dispatcher: webrick
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Application: development
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing Net instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Finished instrumentation
+[2018-06-07 11:25:49 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 11:25:55 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 11:25:55 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 11:25:56 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6597)] INFO : Starting Agent shutdown
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Environment: development
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Dispatcher: webrick
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Application: development
+[2018-06-07 11:26:32 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing Net instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Finished instrumentation
+[2018-06-07 11:26:33 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 11:26:38 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 11:26:38 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 11:47:41 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (6667)] INFO : Starting Agent shutdown
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Environment: development
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Dispatcher: webrick
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Application: development
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing Net instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Finished instrumentation
+[2018-06-07 11:52:25 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 11:53:03 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 11:53:03 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 14:33:34 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (8602)] INFO : Starting Agent shutdown
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Environment: development
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : No known dispatcher detected.
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Application: development
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing Net instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 14:34:59 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 14:35:00 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16764)] INFO : Finished instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Environment: development
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Dispatcher: webrick
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Application: development
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing Net instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 14:35:07 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 14:35:08 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Finished instrumentation
+[2018-06-07 14:35:08 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16787)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Environment: development
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Dispatcher: webrick
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Application: development
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing Net instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Finished instrumentation
+[2018-06-07 14:35:18 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 14:35:26 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 14:35:26 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 14:35:38 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (16796)] INFO : Starting Agent shutdown
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Environment: development
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Dispatcher: webrick
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Application: development
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing Net instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Finished instrumentation
+[2018-06-07 14:40:13 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17169)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] WARN : No configuration file found. Working directory = /home/rohit/workspace/new_app/enchanted_world_app
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] WARN : Looked in these locations (based on defaults): /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/config/newrelic.yml, /home/rohit/workspace/new_app/enchanted_world_app/newrelic.yml, /home/rohit/.newrelic/newrelic.yml, /home/rohit/newrelic.yml
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Environment: development
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Dispatcher: webrick
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Application: development
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing ActiveJob instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing Net instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing Rails 4 view instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Installing Rails 4 Controller instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Finished instrumentation
+[2018-06-07 14:40:30 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-06-07 14:40:37 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-06-07 14:40:37 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-06-07 14:40:48 +0530 flexsin-HP-Compaq-8000-Elite-SFF-PC (17187)] INFO : Starting Agent shutdown
